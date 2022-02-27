@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the Earl of Derby Governour of the Isle of Man, to his dread soveraign, Charles the II, King of Scotland; and his Lordships declaration to his Majesty, concerning the Treaty, and Major Generall Ireton, with the discovery of a strange and dangerous design against the Parliament, the Lord Lieut. Cromwell, Major Gen. Ireton; and his resolution to sacrifice his life, rather then to sell his loyalty. Also, the proposals of the said Major Gen. Ireton, to the Earl of Derby, his Lordships answer thereunto, and a true account of the strange and incredible relation of his seizing upon his person, and sending him for a present to the Prince. Together with the last intelligence from Dublin.</title>
+            <author>Derby, James Stanley, Earl of, 1607-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81328</idno>
+            <idno type="STC">Wing D1092</idno>
+            <idno type="STC">Thomason E566_21</idno>
+            <idno type="STC">ESTC R206211</idno>
+            <idno type="EEBO-CITATION">99865385</idno>
+            <idno type="PROQUEST">99865385</idno>
+            <idno type="VID">117625</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117625)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the Earl of Derby Governour of the Isle of Man, to his dread soveraign, Charles the II, King of Scotland; and his Lordships declaration to his Majesty, concerning the Treaty, and Major Generall Ireton, with the discovery of a strange and dangerous design against the Parliament, the Lord Lieut. Cromwell, Major Gen. Ireton; and his resolution to sacrifice his life, rather then to sell his loyalty. Also, the proposals of the said Major Gen. Ireton, to the Earl of Derby, his Lordships answer thereunto, and a true account of the strange and incredible relation of his seizing upon his person, and sending him for a present to the Prince. Together with the last intelligence from Dublin.</title>
+                  <author>Derby, James Stanley, Earl of, 1607-1651.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by T. Broad, and re-printed for W.R.,</publisher>
+                  <pubPlace>Printed at York :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireton, Henry, 1611-1651 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117625:1" rendition="simple:additions"/>
+            <p>A MESSAGE Sent from the Earl of DERBY Governour of the Isle of Man, To His Dread Soveraign, CHARLES the II, King of <hi>Scotland;</hi> And his Lordſhips Declaration to His Ma<g ref="char:EOLhyphen"/>jeſty, concerning the <hi>Treaty,</hi> and Major Generall <hi>IRETON. WITH</hi> The diſcovery of a <hi>strange</hi> and dangerous deſign againſt the <hi>Parliament,</hi> the Lord Lieut. <hi>Cromwell,</hi> Major Gen. <hi>Ireton;</hi> and his Reſolution to ſacrifice his life, rather then to ſell his loyalty. <hi>ALSO,</hi> The Propoſals of the ſaid Major Gen. <hi>Ireton,</hi> to the Earl of <hi>Derby,</hi> his Lordſhips Anſwer thereunto, and a true ac<g ref="char:EOLhyphen"/>count of the <hi>strange</hi> and incredible Relation of his ſeizing upon his perſon, and ſending him for a Preſent to the Prince. <hi>Together with the laſt Intelligence from</hi> Dublin.</p>
+            <p>Printed at <hi>York</hi> by <hi>T. Broad,</hi> and re-printed for <hi>W. R.</hi> 1649</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117625:2"/>
+            <pb n="1" facs="tcp:117625:2"/>
+            <head>A MESSAGE Sent from the Earl of DERBY <hi>Governour of the Iſle of</hi> Man, To his Dread Soveraign, <hi>Charles</hi> the ſecond, King of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> concerning the Treaty between his Lord<g ref="char:EOLhyphen"/>ſhip, and Commiſſary Gen <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Right Honoured,</salute>
+            </opener>
+            <p>THe Earl of <hi>Derby (King in Man)</hi> having entred into a Treaty with the Commiſſioners of Parliament, touching the ſurrender thereof to their due obedi<g ref="char:EOLhyphen"/>ence and authority, Commiſſary Gen. <hi>Ireland</hi> propounded to his Lordſhip, That it was the pleaſure of the Parliament
+<pb n="2" facs="tcp:117625:3"/> of <hi>England</hi> to receive him into favour, and to mitigate the Fine of his Lordſhips eſtate, by taking off the Sequeſtrati<g ref="char:EOLhyphen"/>on thereof, and to make his Compoſition for 15000. li. provided, That he would ſurrender that Iſland, with all the Forts, armes, ammunition, and other warlike proviſions thereunto belonging, for the uſe and ſervice of the State &amp; Common-wealth of <hi>England;</hi> and after mature deliberati<g ref="char:EOLhyphen"/>on on the reſult therof, his Lordſhip returned a very <hi>ſtrange</hi> anſwer, ſaying, <hi>That he abhorred with his ſoul, the reſcenting or harbouring the least thought of perſidiouſneſse, that he wold never be instrumentall, in casting ſuch an Odium upon the Houſe of Derby, as to betray the truſt repoſed in him by h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> So<g ref="char:EOLhyphen"/>veraign, and that he was reſolved to ſacrifice his life, and all that was near and dear vnto him then to forfeit his Allegance and ſell his Loyalty for</hi> 15000. l.</p>
+            <p>Theſe reſolutions ſeem <hi>exceeding strange</hi> and oppoſite to ſuch fair overtures and propoſitions, inſomuch that the tranſactions of the treaty are like to take little effect, as may appear by his Lordſhips Letter, to the declared King of <hi>Scotland,</hi> wherein he remonſtrates,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>That he was reſolved, never to alienate or divert his loyal affections from his ſacred Majeſty, but to improve all poſſible intereſts whatſoever for the propagating of the Work in hand, and advancing ſo glorious a Cauſe, tending to the honour of God, the peace and proſperity of his Church and kingdoms, and the liberty freedom, and tranquility of all loyall Subjects throughout his Dominions; and as for the preſent Treaty, he was re<g ref="char:EOLhyphen"/>ſolved to wave the ſame, he having no other end nor in<g ref="char:EOLhyphen"/>tentions therein, but onely a demur to the preſent ad<g ref="char:EOLhyphen"/>vance of the Engliſh Army for Ireland; in proſecution whereof, he was reſolved not to deſiſt, aſſuring his Ma<g ref="char:EOLhyphen"/>jeſty,
+<pb n="3" facs="tcp:117625:3"/> that for faciliating of the ſame, no means ſhould be left vnattempted by</p>
+                  <closer>
+                     <signed>Your Majeſties loyall, faithfull, and obedient Subject and Servant, DERBY.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Yet notwithſtanding the non-prevailing of the preſent o<g ref="char:EOLhyphen"/>vertures, we doubt not but a good account will (in proceſs of time be given of the reducement of that Iſland, and his Lordſhip be forced (for the future) to make a finall recan<g ref="char:EOLhyphen"/>tation, for his former preſumption and diſobedience.</p>
+            <p>As for our intelligence from <hi>Ireland,</hi> I ſhall refer you to the incloſed letters, which came out this day in print, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SInce the taking of the three Impregnable and ſtrong Garriſons of <hi>Tredagh, Dundalk,</hi> and <hi>Trim,</hi> the enemy hath exceedingly ſtreightned us, &amp; have now gained more than e<g ref="char:EOLhyphen"/>ver they loſt before, having incamped themſelves within half a mile of the City, and many of their Out-works and trenches are leſſe then musket ſhot of our walls: The laſt night about 10 of the clock they allarm'd us, our Governor and the Captains of the Guards were ſoon in a readineſſe to receive them, and gave them a great volley; inſomuch that we received ſome reſpite of eaſe, till two in the morning; at which time, the Lord <hi>Inchiquin</hi> (with a ſelect party of horſe and foot of his own Brigade) gave us a viſit, and very deſperately and reſolutely fell upon our man in ſome in the Out-works, who being overpowr'd, were forced to quit the reſpective places, and make their retreat to the next place of ſanctuary, but not without loſſe; for by their ſudden aſ<g ref="char:EOLhyphen"/>ſault, the poor <hi>Defendants</hi> ſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the terrour of their Bloud-thirſty Sword, and about 30 ſacrificed their lives in the place; <hi>which action being with great vigour proſecuted, In<g ref="char:EOLhyphen"/>chiquin returned to his Tents, ſinging hallelujah for his try<g ref="char:EOLhyphen"/>umphant ſucceſſe; but we doubt not, but to make our ſcores e<g ref="char:EOLhyphen"/>ven, before many dayes are expired.</hi>
+                  </p>
+                  <pb n="4" facs="tcp:117625:4"/>
+                  <p>
+                     <hi>The Enemy make their neer approaches to our Liue, to threa<g ref="char:EOLhyphen"/>ten a ſtorm; but its believed, their repulſ the other night at the ſtorming of Patrick Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t, will ſomewhat ret<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rd that work; for they were diſorderly beaten off with the loſse of about</hi> 50 <hi>men. The Lord Inchiquin hath ſent a peremptory Letter to our Go<g ref="char:EOLhyphen"/>vernour, intimating, That he heard Crumwell was advancing into that Nation with an Army of Engliſh Rebels, to relieve him; but if he durſt come thither, he ſhould be welcome, and better entertained by his Lordſhip then he was ever, either by England, Wales, or Scotland, &amp;c. Our Governour returned a very modest and reſolute anſwer, That as he had vndertaken a Trust, ſo he ſhould be faithfull therein to the laſt moment, whether any forces or none, came for relief of him.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>But the thing that our Souldiery are moſt doubtfull and dubious of, is, that they fear the enemy will not give them a field upon the additionall forces landing, but that they wil rather betake themſelves to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ogs and Woods.</p>
+            <p>And although we cannot but repreſent our ſelves in a ve<g ref="char:EOLhyphen"/>ry ſad condition (without timely relief) yet we cannot but exceedingly rejoyce at the gallantry of faithfull Col. Jones our Governour, under ſuch a ſtate, in this his preſent con<g ref="char:EOLhyphen"/>dition.</p>
+            <p>Since the enemies receipt of the intelligence of the Lord Lieutenant <hi>Crumwels</hi> deſignment for this bleeding City, they have ſomewhat awakened us with ſtronger allarms, and (as we hear) have entred into Proteſtation, <hi>to live and die, stand and fall together, and to fight it out to the laſt man,</hi> and that upon receipt of the foreſaid intelligence, <hi>Ormond</hi> called a Councell of Officers, at the head quarters neer Fingles, the reſult was, whether they ſhould prepare for a ſtorm, be<g ref="char:EOLhyphen"/>fore his Lordſhips landing, or whether they ſhould begirt the City, ſtreighten other Gariſons, take in what they could
+<pb n="5" facs="tcp:117625:4"/> and then randezvouz and draw into a Body, and give him battell at his landing: Upon mature deliberation thereon, it was unanimoſly declared by moſt of that Popiſh and Pro<g ref="char:EOLhyphen"/>laticall faction, That if he ſet footing there they wold fight him; in the mean time they would uſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their utmoſt endea<g ref="char:EOLhyphen"/>vours for the reducing of thoſe Garriſons which the Par<g ref="char:EOLhyphen"/>liament had in poſſeſſion.</p>
+            <p>On Wedneſday morning laſt, a party of the Marq. of Ormonds horſe and foot faced our frontier Guards, kee<g ref="char:EOLhyphen"/>ping a great careering up &amp; down neer the City Wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and — making ſeverall bold attempts within Piſtol ſhot of our Line, Spurs, and Sconces, which continued for the ſpace of half an hour; till at the laſt Cape, <hi>Cambray</hi> (Com<g ref="char:EOLhyphen"/>mander in chief of the new Fort) made a ſalley out with a party of horſe and foot, who placed the Muſquetiers in an obſcure trench, for an Ambuſcado; he himſelf being the Coy, for the calling in and enſnaring of the adverſe party; but upon his firſt advance towards them with his horſe, he found it a Work very full of difficulty, by reaſon that they had uſed the like point of policp: However, he reſolved to diſpute the place, and thereupon divided his horſe (being 60 in number) into two parties, he himſelf commanding the one, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ornet Jackſon the other; Capt. <hi>Cambray</hi> charged the Van of the Enemies Forlorn, Corne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Jackſon</hi> flanked them, and upon their firſt charge exchanged ground, with the loſſe of three men on both ſides; but upon their preſent wheeling, both parties received each other with a ſecond deſperate Onſet, who with great courage &amp; reſolution kept their ſtations, diſputing the place with great gallantry; but at laſt our men being overpowred (by the coming on of a freſh ſupply of horſe) were forced to embra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> an honou<g ref="char:EOLhyphen"/>rable retreat; the enemy purſued to the very <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n; pikes, where they were ſoon welcomed by the ſons of <hi>Mar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> both
+<pb n="6" facs="tcp:117625:5"/> from the mouth of the Canon and Muſquet, at which Vol<g ref="char:EOLhyphen"/>ley, 7 of them were forced to yeeld obedience to the earth, w<hi rend="sup">ch</hi> cauſed the enemy to deſert further diſpute or engage<g ref="char:EOLhyphen"/>ment, leaving dead and wounded upon the place about 17. of our party five ſlain and two wounded.</p>
+            <p>By Letters further from Dublin it is advertized, that the Marq. of <hi>Ormond,</hi> and the L. <hi>Inchiquin</hi> with 20000 Horſe and Foot, have in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>renched themſelves (in many places) within Muſquet ſhot of the Walls, and by their ſtrong allarums (being very reſolved, ſince the taking of Tredah) keeps us in continuall action: the laſt night their Pioneers wrought exceeding hard, and raiſed an half Moon within musket ſhot of our Out-works, where was placed about 400 musketiers, and four pieces of Ordnance; it was con<g ref="char:EOLhyphen"/>trived very artificially and ſtrong, with a running Trench from their frontier incampings, which ſecures their men from great annoyance of our round ſhot: this morning we ſallyed out upon them, with a reſolution to beat them off from the ſaid Fort; but finding too much oppoſition re<g ref="char:EOLhyphen"/>treated to our Redout, which was within Piſtoll ſhot there<g ref="char:EOLhyphen"/>of; about 4 of the clock ſeverall parties of horſe and foot were drawn forth on both ſides, who engaged each other, and after a ſharp conflict diſputed with great gallantry the enemy retreated, and having a Reſerve ready at hand our men durſt not embrace the purſuit, but returned Victors with 17 priſoners, &amp; left dead and wounded upon the place about 15 with the loſſe of 14 men, which the enemy in the night time ſet off, and buryed.</p>
+            <p>Thus having given you a brief account of that which is moſt remarkable and extant amongſt us, I remain</p>
+            <closer>
+               <signed>Yours, &amp;c. <hi>W. A.</hi>
+               </signed>
+               <dateline>
+                  <hi>York</hi>
+                  <date>26. July, 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>As for the rumour, that the Earl of <hi>Derby</hi> hath ſeized up<g ref="char:EOLhyphen"/>on Commiſſary Gen. <hi>Ireton,</hi> and a ſuit of Cloaths amoun<g ref="char:EOLhyphen"/>ting to the value of 700. l. and ſent them both for a Preſent to the Prince, it is falſe and incredible.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
